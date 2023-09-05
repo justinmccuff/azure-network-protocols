@@ -1,10 +1,8 @@
 <p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
-
-<h1>In this instructive tutorial, we embark on a comprehensive exploration of network traffic interactions involving Azure Virtual Machines through the utilization of Wireshark. Additionally, we engage in practical experimentation with Network Security Groups (NSGs), enhancing our understanding of network security within the Azure environment. Throughout this tutorial, we delve into the intricacies of network monitoring, analysis, and security configuration, equipping you with valuable insights and skills for effective network management and security in an Azure Virtual Machine environment. <br />
-
-
+<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
+In this instructive tutorial, we embark on a comprehensive exploration of network traffic interactions involving Azure Virtual Machines through the utilization of Wireshark. Additionally, we engage in practical experimentation with Network Security Groups (NSGs), enhancing our understanding of network security within the Azure environment. Throughout this tutorial, we delve into the intricacies of network monitoring, analysis, and security configuration, equipping you with valuable insights and skills for effective network management and security in an Azure Virtual Machine environment.<br />
 
 <h2>Environments and Technologies Used</h2>
 
